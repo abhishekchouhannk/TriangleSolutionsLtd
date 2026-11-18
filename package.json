@@ -1,0 +1,10 @@
+{
+  "name": "triangle-electric-site",
+  "version": "1.0.0",
+  "description": "Static website for Triangle Electric Solutions Ltd",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" }
+}

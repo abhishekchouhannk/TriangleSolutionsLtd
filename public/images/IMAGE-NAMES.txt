@@ -1,0 +1,13 @@
+Drop the client's photos in this folder using these names.
+.jpg, .jpeg, .png or .webp all work (just keep the base name).
+
+hero.jpg ..... hero.jpg          (home page, top right - best: a strong panel/commercial shot)
+about.jpg ..... about.jpg          (about page, portrait/tall works best)
+
+commercial-1.jpg  commercial-2.jpg  commercial-3.jpg      commercial panels
+residential-1.jpg residential-2.jpg residential-3.jpg     home jobs
+ev-charger-1.jpg  ev-charger-2.jpg  ev-charger-3.jpg      Tesla / EV charger installs
+chandelier-1.jpg  chandelier-2.jpg  chandelier-3.jpg      chandeliers / lighting
+more-1.jpg        more-2.jpg        more-3.jpg            extra photos (more-1 is also used for Industrial)
+
+Tip: keep each photo under ~500 KB (resize to ~1600px wide) so the site loads fast.
