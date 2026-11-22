@@ -17,7 +17,7 @@ Put images in `public/images/` using the names in `public/images/IMAGE-NAMES.txt
 Once the site is final, set `HIDE_EMPTY_PHOTOS = true` at the top of `public/js/main.js` to hide any unused slots.
 
 ## Contact form
-The form posts to FormSubmit and lands in raffibonjour@gmail.com.
+The form posts to FormSubmit and lands in tesquote@gmail.com.
 The FIRST submission triggers an activation email to that inbox – click the confirm link once, then it works for good.
 
 ## Logo

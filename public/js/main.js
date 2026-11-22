@@ -13,7 +13,7 @@
   // so commercial-1.jpg, commercial-1.png, commercial-1.webp all work.
   var EXTENSIONS = ['jpg', 'jpeg', 'png', 'webp', 'JPG', 'JPEG', 'PNG'];
 
-  var CONTACT_EMAIL = 'raffibonjour@gmail.com';
+  var CONTACT_EMAIL = 'tesquote@gmail.com';
 
   /* ---- Year in footer ---- */
   var yr = document.getElementById('year');
