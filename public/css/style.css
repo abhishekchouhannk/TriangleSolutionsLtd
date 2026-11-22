@@ -346,3 +346,15 @@ button,input,select,textarea{font:inherit;color:inherit}
   html{scroll-behavior:auto}
   *{animation:none !important;transition:none !important}
 }
+
+/* Safari/iOS fix: stop the hero grid column growing wider than the screen */
+.hero-in{grid-template-columns:minmax(0,1.05fr) minmax(0,1fr)}
+.hero-in>*{min-width:0}
+.hero-photo{aspect-ratio:auto;width:100%}
+.hero-photo .ph{height:auto;width:100%;aspect-ratio:4/3.3}
+@media (max-width:980px){
+  .hero-in{grid-template-columns:minmax(0,1fr)}
+}
+
+.hero-photo .ph{background:#fff}
+.hero-photo .ph img{object-fit:contain;padding:7%}
